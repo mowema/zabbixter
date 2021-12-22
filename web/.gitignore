@@ -10,7 +10,7 @@ HelpCommands.md
 /coverage
 
 # production
-/build
+!/build
 
 # misc
 .env.local

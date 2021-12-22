@@ -51,7 +51,8 @@
   },
   "devDependencies": {
     "@types/react-modal": "^3.13.1",
-    "@types/yup": "^0.29.13"
+    "@types/yup": "^0.29.13",
+    "bytecode-react-cli": "^0.4.2"
   },
   "resolutions": {
     "ts-invariant": "^0.9.0"
